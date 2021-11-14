@@ -1,0 +1,21 @@
+86400:
+  -
+      name: "chug_game_shuffle_notes"
+      url: "https://us-central1-drinking-game-6b121.cloudfunctions.net/shuffleNotes"
+259200:
+  -
+    name: "mazze_home_rank"
+    url: "https://mazze-8d797.ew.r.appspot.com//db/trigger/home"
+604800:
+  -
+    name: "mazze_word_rank"
+    url: "https://mazze-8d797.ew.r.appspot.com//db/trigger/word"
+  -
+    name: "mazze_categories_rank"
+    url: "https://mazze-8d797.ew.r.appspot.com//db/trigger/categories"
+  -
+    name: "mazze_letter_rank"
+    url: "https://mazze-8d797.ew.r.appspot.com//db/trigger/letter"
+
+
+
